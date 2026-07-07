@@ -390,6 +390,12 @@ textarea {
   color: #5b6d5a;
 }
 
+.last-updated {
+  margin: 0;
+  color: #74856f;
+  font-size: 0.95rem;
+}
+
 .social-links {
   display: flex;
   gap: 1rem;
