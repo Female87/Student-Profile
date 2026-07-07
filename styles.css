@@ -79,6 +79,11 @@ textarea {
   color: var(--primary);
 }
 
+.nav-download {
+  color: var(--primary);
+  font-weight: 700;
+}
+
 .nav-toggle {
   display: none;
   border: none;
